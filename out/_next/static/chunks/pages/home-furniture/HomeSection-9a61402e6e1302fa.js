@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[98215],{57272:(_,e,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/home-furniture/HomeSection",function(){return n(31172)}])}},_=>{var e=e=>_(_.s=e);_.O(0,[91106,29965,79471,81565,17779,58311,31172,90636,46593,38792],()=>e(57272)),_N_E=_.O()}]);
