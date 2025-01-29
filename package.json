@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "build": "npm run build",
+    "start": "npm run start",
+    "lint": "next lint",
+    "export": "npm run export"
   },
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
