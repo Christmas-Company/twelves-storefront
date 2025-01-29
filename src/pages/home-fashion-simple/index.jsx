@@ -10,7 +10,7 @@ import CatSection from '@pages/home-fashion-simple/CatSection';
 import MainHomeSlide from '@src/commonsections/MainHomeSlide';
 import TrendingandNewArrival from '@src/commonsections/TrendingandNewArrival';
 import TopBanner from '@src/components/Headers/TopBanner';
-import HeaderHomeFashion from '@src/components/Header2HomeFashion';
+import HeaderHomeFashion from '@src/components/Header2';
 import HeadTitle from '@src/commonsections/HeadTitle';
 
 const HomeFashionSimple = () => {

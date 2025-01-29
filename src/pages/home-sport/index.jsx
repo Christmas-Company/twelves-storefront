@@ -10,7 +10,7 @@ import FooterSports from '@src/components/FooterSports'
 import TopSelling from '@pages/home-sport/TopSelling'
 import SwiperTab from '@pages/home-sport/SwiperTab'
 import HomeSportTopBanner from '@src/components/Headers/HomeSportTopBanner'
-import HeaderSport from '@src/components/Header2Sport'
+import HeaderSport from '@src/components/Header2'
 import HeadTitle from '@src/commonsections/HeadTitle'
 
 import desktop from "@assets/images/home-sport/full-width-banner-desktop.jpg"

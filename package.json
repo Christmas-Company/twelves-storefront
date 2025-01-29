@@ -2,12 +2,15 @@
   "name": "kalles_next_js",
   "version": "0.1.0",
   "private": true,
+"homepage": "https://christmas-company.github.io/twelves-storefront/",
+  "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run build",
-    "start": "npm run start",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
-    "export": "npm run export"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
@@ -20,12 +23,13 @@
     "react-countdown": "^2.3.6",
     "react-dom": "^19.0.0",
     "react-responsive": "^10.0.0",
-    "sass": "^1.77.8",
+    "sass": "^1.83.4",
     "swiper": "^11.2.1"
   },
   "devDependencies": {
     "@types/node": "22.5.2",
     "eslint": "^8",
-    "eslint-config-next": "14.2.7"
+    "eslint-config-next": "14.2.7",
+    "gh-pages": "^6.3.0"
   }
 }

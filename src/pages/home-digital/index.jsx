@@ -12,7 +12,7 @@ import CardsSection from '@pages/home-digital/CardsSection'
 import BlogPost from '@pages/home-digital/BlogPost'
 import FooterDigital from '@src/components/FooterDigital'
 import FeaturedCollection from '@pages/home-digital/FeaturedCollection'
-import HeaderHomeDigital from '@src/components/Header2HomeDigital'
+import HeaderHomeDigital from '@src/components/Header2'
 import TopBanner from '@src/components/Headers/TopBanner'
 import HeadTitle from '@src/commonsections/HeadTitle'
 

@@ -9,7 +9,7 @@ import TrendingandNewArrival from '@src/commonsections/TrendingandNewArrival';
 import TopBanner from '@src/components/Headers/TopBanner';
 import PopupPage from '@src/components/Popup';
 import HeadTitle from '@src/commonsections/HeadTitle';
-import HeaderLookbookCollection from '@src/components/Header2LookbookCollection';
+import HeaderLookbookCollection from '@src/components/Header2';
 import { PinModal1, PinModal2, PinModal3, PinModal4, PinModal5, PinModal6 } from '@src/components/Lookbookmodels/LookbookModels';
 
 import HomeSection from '@pages/home-lookbook-collection/HomeSection';
