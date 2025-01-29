@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[89815],{17972:(s,_,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/home-glasses/GlassesList",function(){return e(464)}])}},s=>{var _=_=>s(s.s=_);s.O(0,[91106,29965,464,90636,46593,38792],()=>_(17972)),_N_E=s.O()}]);
