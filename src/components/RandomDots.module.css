@@ -1,0 +1,22 @@
+.dotContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  
+  @keyframes moveDot {
+    0% {
+      transform: translate3d(0, 0, 0);
+    }
+    50% {
+      transform: translate3d(var(--random-x), var(--random-y), 0);
+    }
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+  }
+  
