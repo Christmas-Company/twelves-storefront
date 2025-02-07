@@ -16,6 +16,8 @@ import HeadTitle from '@src/commonsections/HeadTitle'
 import CatSection from '@pages/main-index/CatSection';
 import MainBanner from './MainBanner'
 import AboutFounder from './AboutFounder'
+import ResponsiveFooter from '@src/components/ResponsiveFooter'
+
 
 const HomeStaticImage = () => {
 
@@ -57,7 +59,7 @@ const HomeStaticImage = () => {
 
 {/* Footer */}
 <FooterPage />
-
+<ResponsiveFooter />
 {/* <PopupPage /> */}
 
 

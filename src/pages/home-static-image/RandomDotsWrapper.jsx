@@ -69,7 +69,7 @@ const RandomDotsWrapper = ({ count = 12 }) => {
         ></span>
       ))}
         <div className={styles.content}>
-      <h1 className="text-uppercase mt-4" style={{fontFamily:'"Roxborough", serif',fontSize:'4.6rem !important',lineHeight:'1.20 !important', fontWeight:'100 !important', fontVariationSettings:'"wght" 100 !important',textShadow:'0 0 3rem rgba(23, 20, 64 ,1)'}}><br />
+      <h1 className="text-uppercase mt-4 banner-text" style={{fontFamily:'"Roxborough", serif',fontSize:'4.6rem !important',lineHeight:'1.20 !important', fontWeight:'100 !important', fontVariationSettings:'"wght" 100 !important',textShadow:'0 0 3rem rgba(23, 20, 64 ,1)'}}><br />
         UNLEASH THE MAGIC <br /> WITH TWELVES</h1><br />
       <h2 className="fs-24 font-secondary" style={{fontFamily:'"jost", sans-serif !important',fontSize:'1.8rem !important',lineHeight:'1.20 !important', fontWeight:'100 !important', fontVariationSettings:'"wght" 300 !important', maxWidth:'64rem', textShadow:'0 0 3rem rgba(23, 20, 64 ,1)'}}>Create Sensational festive experiences that deliver <br /> dazzling commercial performance</h2>
 

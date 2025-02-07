@@ -1835,3 +1835,21 @@ button, input, select, textarea {
 font-size: 1.2rem;
 }
 
+
+.tabs {
+    @media (max-width:991px) {
+        display: none;
+    }
+}
+
+.footer {
+    @media (max-width:991px) {
+        display: none;
+    }
+}
+
+.banner-text{
+    @media (max-width:991px) {
+        font-size: 2rem !important;
+    }
+}
