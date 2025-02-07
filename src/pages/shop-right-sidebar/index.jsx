@@ -22,7 +22,7 @@ const ShopRightSidebar = () => {
 
             <FilterTab />
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

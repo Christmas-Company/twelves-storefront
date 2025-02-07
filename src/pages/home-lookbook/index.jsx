@@ -54,7 +54,7 @@ const HomeLookbook = () => {
                 {/* footer */}
                 <FooterPage />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

@@ -381,7 +381,7 @@ const HomeOneProductStore = () => {
 
                 {/* footer */}
                 <FooterOneProductStore />
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

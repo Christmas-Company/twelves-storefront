@@ -87,7 +87,7 @@ const HomeDecor = () => {
                 {/* footer */}
                 <FooterPage />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

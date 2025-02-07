@@ -44,7 +44,7 @@ const HomeInstagramShop = () => {
                 {/* footer */}
                 <FooterPage />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

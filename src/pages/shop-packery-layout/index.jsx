@@ -28,7 +28,7 @@ const ShopPackeryLayout = () => {
                 <CatSection />
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

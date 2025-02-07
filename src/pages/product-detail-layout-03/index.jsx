@@ -64,7 +64,7 @@ const ProductDetailLayout03 = () => {
             </section>
             <FooterPage />
 
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={pr25} colorSize2="Black" name="Black mountain hat" price="$50.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

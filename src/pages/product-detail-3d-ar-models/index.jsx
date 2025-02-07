@@ -74,7 +74,7 @@ const Index = () => {
                 </Container>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={thumb} name="Dance Bag Nylon" price="$18.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

@@ -60,7 +60,7 @@ const HomeFlower = () => {
                 {/* footer */}
                 <FooterFlower />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

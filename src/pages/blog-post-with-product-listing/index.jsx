@@ -35,7 +35,7 @@ const BlogPostProductListing = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

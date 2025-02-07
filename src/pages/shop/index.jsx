@@ -35,8 +35,8 @@ const Shop = () => {
                 </ul>
             </div>
             <FooterPage />
-            <ShopFooter />
-            <PopupPage />
+            {/* <ShopFooter /> */}
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

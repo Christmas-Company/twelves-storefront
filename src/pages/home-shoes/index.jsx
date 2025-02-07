@@ -107,7 +107,7 @@ const HomeShoes = () => {
             {/* footer */}
             <FooterShoe />
 
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

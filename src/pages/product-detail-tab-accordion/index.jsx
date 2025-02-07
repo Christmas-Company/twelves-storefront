@@ -70,7 +70,7 @@ const Index = () => {
                 </Container>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={thumb1} name="Felt Cowboy Hat" price="$20.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

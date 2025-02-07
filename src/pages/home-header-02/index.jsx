@@ -47,7 +47,7 @@ const HomeHeader02 = () => {
 
             {/* Footer */}
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
         </React.Fragment>
     )

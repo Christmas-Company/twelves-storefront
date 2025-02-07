@@ -70,7 +70,7 @@ const ProductDetailFullWith = () => {
                 </Row>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={dot1} name="Simple Skin T-shirt" colorSize2="XL" price="$56.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

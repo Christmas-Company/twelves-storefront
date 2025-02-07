@@ -34,7 +34,7 @@ const FilterSiderbar = () => {
             </div>
             <FooterPage />
 
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

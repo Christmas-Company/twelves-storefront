@@ -421,7 +421,7 @@ const Checkout = () => {
 
             {/* footer */}
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

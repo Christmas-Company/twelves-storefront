@@ -51,7 +51,7 @@ const ShopGridListSwitcher = () => {
                 </div>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

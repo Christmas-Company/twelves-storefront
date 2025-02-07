@@ -69,7 +69,7 @@ const index = () => {
                 </Container>
                 <FooterPage />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
 
             </section>
 

@@ -34,7 +34,7 @@ const ShopFullWidthLayout = () => {
                 </div>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

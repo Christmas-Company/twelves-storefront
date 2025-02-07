@@ -199,7 +199,7 @@ const HomeLookbookCollection = () => {
                 {/* Footer */}
                 <FooterPage />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
 
             </div>
         </React.Fragment>

@@ -62,7 +62,7 @@ const ProductDetailThumb = () => {
             </section>
             <FooterPage />
 
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={dot1} name="Mercury Tee" colorSize2="White Cream / S" price="$68.00" />
         </React.Fragment>

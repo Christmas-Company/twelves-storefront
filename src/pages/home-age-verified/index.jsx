@@ -47,7 +47,7 @@ const HomeAgeVerified = () => {
 
             {/* Footer */}
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

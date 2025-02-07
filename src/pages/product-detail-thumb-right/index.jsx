@@ -60,7 +60,7 @@ const ProductDetailthumbRight = () => {
             </section>
             <FooterPage />
 
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={des2} name="High Waist Skinny Jean" colorSize2="M" del="$45.00" price=" $30.00" />
         </React.Fragment >

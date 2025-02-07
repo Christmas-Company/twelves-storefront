@@ -149,7 +149,7 @@ const HomeElectricVertical = () => {
 
                 {/* Footer */}
                 <FooterPage />
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

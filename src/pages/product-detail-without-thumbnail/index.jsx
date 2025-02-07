@@ -60,7 +60,7 @@ const ProductDetailWithoutThumbnail = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={thumb1} name="Striped Long Sleeve Top" price="$15.00" />
         </React.Fragment>

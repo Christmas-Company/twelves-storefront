@@ -20,7 +20,7 @@ const BlogMasonry = () => {
                 <GridBlogs />
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

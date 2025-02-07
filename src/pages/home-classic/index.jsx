@@ -55,7 +55,7 @@ const HomeClassic = () => {
                 <FooterPage />
 
                 {/* popup */}
-                <PopupPage />
+                {/* <PopupPage /> */}
 
             </div>
         </React.Fragment>

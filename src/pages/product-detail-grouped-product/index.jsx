@@ -73,7 +73,7 @@ const Index = () => {
 
                 </Container>
                 <FooterPage />
-                <PopupPage />
+                {/* <PopupPage /> */}
 
                 <BottomProduct img={thumb1} name="Women clothing combo" price="$3.50-$30.00" handleShoppingShow={handleShoppingShow} />
                 <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

@@ -66,7 +66,7 @@ const Index = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={thumb1} name="Striped Long Sleeve Top" colorSize2="Black / S" del="$45.00" price="$20.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

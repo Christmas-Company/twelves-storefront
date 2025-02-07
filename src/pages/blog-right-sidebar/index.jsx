@@ -25,7 +25,7 @@ const BlogRightSidebar = () => {
                 </Row>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

@@ -65,7 +65,7 @@ const ProductDetailRightSidebar = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={dot1} name="Crosshatch Backpack" colorSize2="XL" price="$30.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

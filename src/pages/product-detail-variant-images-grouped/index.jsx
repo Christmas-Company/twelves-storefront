@@ -54,7 +54,7 @@ const PoductDetailvariantGrouped = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={thumb} name="Skin Sweatpans" colorSize2="Grey / S" del="$75.00" price="$45.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

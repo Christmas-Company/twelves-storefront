@@ -25,7 +25,7 @@ const Index = () => {
                 <FilterTab />
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

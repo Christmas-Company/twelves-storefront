@@ -34,7 +34,7 @@ const ShopMasonryLayout = () => {
                 </ul>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

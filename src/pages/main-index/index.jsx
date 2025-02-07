@@ -55,7 +55,7 @@ const IndexPage = () => {
                 {/* Footer */}
                 <FooterPage />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
 
               
 

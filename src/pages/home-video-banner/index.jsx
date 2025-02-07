@@ -68,7 +68,7 @@ const HomeVideoBanner = () => {
                 <FooterPage />
 
                 {/* popup */}
-                <PopupPage />
+                {/* <PopupPage /> */}
 
             </div>
         </React.Fragment >

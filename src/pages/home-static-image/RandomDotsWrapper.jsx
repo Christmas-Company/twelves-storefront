@@ -1,5 +1,5 @@
 // components/RandomDotsWrapper.js
-import styles from './RandomDotsWrapper.module.css'; // Importing CSS module
+import styles from './RandomDotsWrappers.module.css'; // Importing CSS module
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link'
 

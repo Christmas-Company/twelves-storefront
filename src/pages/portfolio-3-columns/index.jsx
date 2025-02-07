@@ -17,7 +17,7 @@ const Portfolio3Columns = () => {
             <PortfolioSection />
             <PortfolioTab />
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

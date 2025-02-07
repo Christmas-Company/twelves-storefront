@@ -19,7 +19,7 @@ const SinglePortfolioWithLookbook = () => {
             <Info />
             <ShopLook />
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

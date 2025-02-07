@@ -35,7 +35,7 @@ const BlogwithInstagramShop = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

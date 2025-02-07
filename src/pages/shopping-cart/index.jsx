@@ -44,7 +44,7 @@ const ShoppingCart = () => {
 
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment >
     )
 }

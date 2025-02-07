@@ -19,7 +19,7 @@ const PortfolioWithInstagramShop = () => {
             <Info />
             <ShopLook />
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

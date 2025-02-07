@@ -52,7 +52,7 @@ const HomeFurniture = () => {
                 {/* footer */}
                 <FooterFurniture />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
 
         </React.Fragment>

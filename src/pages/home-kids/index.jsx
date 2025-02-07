@@ -203,7 +203,7 @@ const HomeKids = () => {
         {/* footer */}
         <FooterKids />
 
-        <PopupPage />
+        {/* <PopupPage /> */}
       </div>
 
     </React.Fragment>

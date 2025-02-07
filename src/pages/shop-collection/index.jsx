@@ -20,7 +20,7 @@ const ShopCollection = () => {
                 <CatSection />
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

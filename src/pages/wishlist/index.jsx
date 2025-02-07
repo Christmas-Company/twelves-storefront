@@ -33,7 +33,7 @@ const Shop = () => {
                 </ul>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

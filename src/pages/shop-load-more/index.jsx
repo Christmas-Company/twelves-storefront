@@ -29,7 +29,7 @@ const LodeMore = () => {
                 </button>
             </div>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }

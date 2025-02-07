@@ -65,7 +65,7 @@ const ProuctDetailLeftSidebar = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={dot1} name="Men pants" colorSize2="White Cream / S" price="$56.00" handleShoppingShow={handleShoppingShow} />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

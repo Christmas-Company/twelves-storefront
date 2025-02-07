@@ -55,7 +55,7 @@ const HomeCategoriesLink = () => {
                 <FooterPage />
               
                 {/* popup */}
-                <PopupPage />
+                {/* <PopupPage /> */}
 
             </div>
         </React.Fragment>

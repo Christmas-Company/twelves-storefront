@@ -56,7 +56,7 @@ const HomeMedical = () => {
                 {/* Footer */}
                 <FooterMedical />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
 
             </div>
         </React.Fragment>

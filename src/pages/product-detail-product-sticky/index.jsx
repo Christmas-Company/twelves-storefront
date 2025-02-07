@@ -58,7 +58,7 @@ const ProductDetailSticky = () => {
                 </div>
             </section>
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
 
             <BottomProduct img={thumb} name="Blush Beanie" colorSize2="Grey / S" price="$15.00" />
             <ShoppingCardModal shoppingShow={shoppingShow} handleShoppingClose={handleShoppingClose} />

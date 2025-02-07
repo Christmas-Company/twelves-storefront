@@ -50,7 +50,7 @@ const HomeCosmetics = () => {
                 {/* footer */}
                 <FooterCosmetics />
 
-                <PopupPage />
+                {/* <PopupPage /> */}
             </div>
         </React.Fragment>
     )

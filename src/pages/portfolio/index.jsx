@@ -17,7 +17,7 @@ const portfolio = () => {
             <PortfolioSection />
             <PortfolioTab />
             <FooterPage />
-            <PopupPage />
+            {/* <PopupPage /> */}
         </React.Fragment>
     )
 }
